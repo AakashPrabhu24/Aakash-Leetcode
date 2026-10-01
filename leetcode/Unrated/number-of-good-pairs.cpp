@@ -4,7 +4,7 @@
 // Language: cpp
 // Verdict: Accepted
 // URL: https://leetcode.com/problems/number-of-good-pairs/
-// Solved on: 2026-10-01T20:40:24.137Z
+// Solved on: 2026-10-01T20:41:26.311Z
 
 class Solution {
 public:
